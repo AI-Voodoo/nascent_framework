@@ -1,0 +1,6 @@
+1. https://github.com/microsoft/onnxruntime-genai/blob/main/examples/python/phi-3-tutorial.md#run-with-directml
+
+2. pip install huggingface-hub[cli]
+
+3. Neo4j Desktop
+
